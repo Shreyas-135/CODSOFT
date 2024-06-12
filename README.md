@@ -40,59 +40,6 @@ For example, the following image shows the number of character in the HKR datase
 <img src="images/sample2.png" width="50%" height="50%">
 
 
-## Split Dataset
-
-Divides the handwriting text dataset into Training, Validation, Test 1, and Test 2 folders. Test1 is a subset of unseen words, Test2 is a subset of words seen, but by other writers.
-you can use the following python code to split as we discussed before
-https://github.com/bosskairat/Dataset
-
-## Citation and Contact
-Please consider to cite our papers when you use our dataset:
-```
-@article{nurseitov2021handwritten,
-  title={Handwritten Kazakh and Russian (HKR) database for text recognition},
-  author={Nurseitov, Daniyar and Bostanbekov, Kairat and Kurmankhojayev, Daniyar and Alimova, Anel and Abdallah, Abdelrahman and Tolegenov, Rassul},
-  journal={Multimedia Tools and Applications},
-  pages={1--23},
-  year={2021},
-  publisher={Springer}
-}
-```
-```
-@article{Abdallah_2020, 
-  title={Attention-Based Fully Gated CNN-BGRU for Russian Handwritten Text}, 
-  volume={6}, 
-  ISSN={2313-433X}, 
-  url={http://dx.doi.org/10.3390/jimaging6120141}, 
-  DOI={10.3390/jimaging6120141},
-  number={12}, 
-  journal={Journal of Imaging}, 
-  publisher={MDPI AG}, 
-  author={Abdallah, Abdelrahman and Hamada, Mohamed and Nurseitov, Daniyar},
-  year={2020}, 
-  month={Dec},
-  pages={141}
-}
-```
-```
-@article{DaniyarNurseitov2020,
-  author = {{Daniyar Nurseitov, Kairat Bostanbekov, Maksat Kanatov, Anel Alimova, Abdelrahman Abdallah}, Galymzhan Abdimanap},
-  doi = {10.25046/aj0505114},
-  file = {:D$\backslash$:/ASTESJ/ASTESJ{\_}0505114.pdf:pdf},
-  journal = {Advances in Science, Technology and Engineering Systems Journal},
-  keywords = {CNN,CTC,Convolutional neural networks,RNN,Recurrent neural networks},
-  number = {5},
-  pages = {934--943},
-  title = {{Classification of Handwritten Names of Cities and Handwritten Text Recognition using Various Deep Learning Models}},
-  volume = {5},
-  year = {2020}
-}
-```
-
-For any quetions about the dataset please contact the authors by sending email to Prof. Daniyar Nurseitov
-([nurseitovdb@gmail.com](mailto:nurseitovdb@gmail.com)), Dr. Kairat Bostanbekov
-([Kairat.boss@gmail.com](mailto:Kairat.boss@gmail.com)) 
-
 
 
 
